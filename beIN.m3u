@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="Group1",beIN sports max1 4k
+http://s1.nasaservers.com:8080/live/Burhan_Rida/qr99IM9HEG/471968.ts
+#EXTINF:-1 group-title="Group1",beIN sports max1 Fhd
+http://mag.d60.co:80/play/live.php?mac=00:1A:79:0F:19:3A&stream=1063490&extension=ts&play_token=Cm8o4zFRLe
+#EXTINF:-1 group-title="Group1",beIN sports max2 Fhd
+http://mag.d60.co:80/play/live.php?mac=00:1A:79:0F:19:3A&stream=1065898&extension=ts&play_token=zv7c9H4n2U
+#EXTINF:-1 group-title="Group1",beIN sports 1 4k
+http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269943.ts
+#EXTINF:-1 group-title="Group1",beIN sports 2 4k
+http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269944.ts
+#EXTINF:-1 group-title="Group1",beIN sports 3 4k
+http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269945.ts
+#EXTINF:-1 group-title="Group1",beIN sports 4 4k
+http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269946.ts
+#EXTINF:-1 group-title="Group1",beIN sports 5 4k
+http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269947.ts
+#EXTINF:-1 group-title="Group1",beIN sports 6 4k
+http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269948.ts
