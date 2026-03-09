@@ -1,19 +1,77 @@
 #EXTM3U
-#EXTINF:-1 group-title="Group1",beIN sports max1 4k
+#EXTINF:-1 group-title="beIN Sports max", beIN sports max1 4k
 http://s1.nasaservers.com:8080/live/Burhan_Rida/qr99IM9HEG/471968.ts
-#EXTINF:-1 group-title="Group1",beIN sports max1 Fhd
+#EXTINF:-1 group-title="beIN Sports max", beIN sports max MN
+http://1ere-serrvices.com:80/live/b7r6yqnunx/ac7lrzc1aq/1063488.ts
+#EXTINF:-1 group-title="beIN Sports max", beIN sports max1 Fhd
 http://mag.d60.co:80/play/live.php?mac=00:1A:79:0F:19:3A&stream=1063490&extension=ts&play_token=Cm8o4zFRLe
-#EXTINF:-1 group-title="Group1",beIN sports max2 Fhd
+#EXTINF:-1 group-title="beIN Sports max", beIN sports max2 Fhd
 http://mag.d60.co:80/play/live.php?mac=00:1A:79:0F:19:3A&stream=1065898&extension=ts&play_token=zv7c9H4n2U
-#EXTINF:-1 group-title="Group1",beIN sports 1 4k
+#EXTINF:-1 group-title="beIN Sports MN", beIN sports 1 4k
 http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269943.ts
-#EXTINF:-1 group-title="Group1",beIN sports 2 4k
+#EXTINF:-1 group-title="beIN Sports MN", beIN sports 2 4k
 http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269944.ts
-#EXTINF:-1 group-title="Group1",beIN sports 3 4k
+#EXTINF:-1 group-title="beIN Sports MN", beIN sports 3 4k
 http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269945.ts
-#EXTINF:-1 group-title="Group1",beIN sports 4 4k
+#EXTINF:-1 group-title="beIN Sports MN", beIN sports 4 4k
 http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269946.ts
-#EXTINF:-1 group-title="Group1",beIN sports 5 4k
+#EXTINF:-1 group-title="beIN Sports MN", beIN sports 5 4k
 http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269947.ts
-#EXTINF:-1 group-title="Group1",beIN sports 6 4k
+#EXTINF:-1 group-title="beIN Sports MN", beIN sports 6 4k
 http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269948.ts
+#EXTINF:-1 group-title="beIN Sports Plus", beIN sports plus 1
+http://4kplus.info:80/live/NAJIBRABAT_478815/JIBcc8NP/272468.ts
+#EXTINF:-1 group-title="beIN Sports Plus", beIN sports plus 2
+http://4kplus.info:80/live/NAJIBRABAT_478815/JIBcc8NP/272467.ts
+#EXTINF:-1 group-title="beIN Sports Plus", beIN sports plus 3
+http://4kplus.info:80/live/NAJIBRABAT_478815/JIBcc8NP/272465.ts
+#EXTINF:-1 group-title="beIN Sports 🍏", beIN Sports 1
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/7266.ts
+#EXTINF:-1 group-title="beIN Sports 🍏", beIN Sports 2
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/55414.ts
+#EXTINF:-1 group-title="beIN Sports 🍏", beIN Sports 3
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/64692.ts
+#EXTINF:-1 group-title="beIN Sports 🍏", beIN Sports 4
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/7262.ts
+#EXTINF:-1 group-title="beIN Sports 🍏", beIN Sports 5
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/7261.ts
+#EXTINF:-1 group-title="beIN Sports 🍏", beIN Sports 6
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/7260.ts
+#EXTINF:-1 group-title="ALWAN SPORTS", ALWAN SPORT 1
+http://off21.lynxcontents.click:2086/live/2486148071/69a835cc1b500/222219.m3u8?data=xm8T2aWvOaaZw9hVxTa7OZq5MATzLvUV_6QVrSFKBssqrs-Jga9-WvM25DJQ8DvuG9Sx_6dcwZnKVlDfqxOnGkTDcjqJDMu0bt0IIcjKoEu4EU8yAwK8hqw2-koUI2hp_7WbmKUyidQENpjimhKw4FWuNe8LxqAWW_K-Ic04a5E=
+#EXTINF:-1 group-title="ALWAN SPORTS", ALWAN SPORT 2
+http://off21.lynxcontents.click:2086/live/2486148071/69a835cc1b500/222220.m3u8?data=sbXSapZiK7qxBrm4zCQzk8-n99MYnVKbuoAmsizRrqNAQokGY1NM0ipjgQ-z0ABAzd4FgV2FEajk4UD-CIeYrp_4OfMfkyz_RjdgEzGd3-uXb-08yNFGllKbwiCdT8rZXKVwJxukrfXCoPLJGTIRCvcbXBh4Hunsihnf4WY8UKw=
+#EXTINF:-1 group-title="ALWAN SPORTS", ALWAN SPORT 3
+http://off21.lynxcontents.click:2086/live/2486148071/69a835cc1b500/222221.m3u8?data=sbXSapZiK7qxBrm4zCQzk8-n99MYnVKbuoAmsizRrqNAQokGY1NM0ipjgQ-z0ABAzd4FgV2FEajk4UD-CIeYrp_4OfMfkyz_RjdgEzGd3-uXb-08yNFGllKbwiCdT8rZXKVwJxukrfXCoPLJGTIRCvcbXBh4Hunsihnf4WY8UKw=
+#EXTINF:-1 group-title="ALWAN SPORTS", ALWAN SPORT 4
+http://off21.lynxcontents.click:2086/sigma/2486148071/69a835cc1b500/222222.m3u8?data=vTehYu0U7an_tAYj97ZL7R2OEc6eWsg4z56Jc_TC7bxwye2ZwSK5OxFRxgOqCB-n1E9V1uWWj2JMxxfuN--27l34UwSWyJi5ZMCSRQ4QduikCelKgUhqXiY8w4G0q70r1yfdo1WyKqAenaOqegTOdYTDOv3OJscOQm6_wHuDcL8=
+#EXTINF:-1 group-title="ALWAN SPORTS", ALWAN SPORT 5
+http://off21.lynxcontents.click:2086/sigma/2486148071/69a835cc1b500/222223.m3u8?data=eyoqWDsj2xCRhtT9QP7tCVbd8el8keQU-5ZflWVH3DFbtKUCnHDsbuxWWtLWlRHDPYE95rCU1UAdtf0h_nMzc5m2M7QW87UQ_HTsckCrq3kOhGGFtCxGC3WWVRxZ3QpRhjgQ_LMHVpAlE7gNmF4JTzEZhiqw5hL257r9Qbg_ShA=
+#EXTINF:-1 group-title="ALWAN SPORTS", ALWAN SPORT 6
+http://off21.lynxcontents.click:2086/sigma/2486148071/69a835cc1b500/222224.m3u8?data=eyoqWDsj2xCRhtT9QP7tCVbd8el8keQU-5ZflWVH3DFbtKUCnHDsbuxWWtLWlRHDPYE95rCU1UAdtf0h_nMzc5m2M7QW87UQ_HTsckCrq3kOhGGFtCxGC3WWVRxZ3QpRhjgQ_LMHVpAlE7gNmF4JTzEZhiqw5hL257r9Qbg_ShA=
+#EXTINF:-1 group-title="ALWAN SPORTS", ALWAN SPORT 7
+http://off22.lynxcontents.click:2086/sigma/2486148071/69a835cc1b500/222829.m3u8?data=eyoqWDsj2xCRhtT9QP7tCVbd8el8keQU-5ZflWVH3DFbtKUCnHDsbuxWWtLWlRHDPYE95rCU1UAdtf0h_nMzc5m2M7QW87UQ_HTsckCrq3kOhGGFtCxGC3WWVRxZ3QpRhjgQ_LMHVpAlE7gNmF4JTzEZhiqw5hL257r9Qbg_ShA=
+#EXTINF:-1 group-title="Bein sport F", bein sport 1
+https://3.3lok3.site/user584561/pass584561/488.ts
+#EXTINF:-1 group-title="Bein sport F", bein sport 2
+https://3.3lok3.site/user584561/pass584561/489.ts
+#EXTINF:-1 group-title="Bein sport F", bein sport 3
+https://3.3lok3.site/user584561/pass584561/490.ts
+#EXTINF:-1 group-title="Bein sport F", bein sport 4
+https://3.3lok3.site/user584561/pass584561/491.ts
+#EXTINF:-1 group-title="Bein sport F", bein sport 5
+https://3.3lok3.site/user584561/pass584561/492.ts
+#EXTINF:-1 group-title="Bein sport F", bein sport 6
+https://3.3lok3.site/user584561/pass584561/493.ts
+#EXTINF:-1 group-title="Bein sport mando",bein sport 1
+http://xmrcars.org:8080/bn14k/mono.m3u8
+#EXTINF:-1 group-title="bein sport rezen", bein sport 2
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8
+#EXTINF:-1 group-title="bein sport rezen", bein sport 1
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+#EXTINF:-1 group-title="bein sport rezen", bein sport 3
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
+#EXTINF:-1 group-title="bein sport rezen", bein sport 4
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8
+#EXTINF:-1 group-title="bein sport rezen", bein sport 5
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
