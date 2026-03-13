@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 group-title="beIN Sports max", beIN sports max1 4k
+http://s1.nasaservers.com:8080/live/Burhan_Rida/qr99IM9HEG/471968.ts
+#EXTINF:-1 group-title="beIN Sports max", beIN sports max MN
+http://1ere-serrvices.com:80/live/b7r6yqnunx/ac7lrzc1aq/1063488.ts
+#EXTINF:-1 group-title="beIN Sports max", beIN sports max1 Fhd
+http://mag.d60.co:80/play/live.php?mac=00:1A:79:0F:19:3A&stream=1063490&extension=ts&play_token=Cm8o4zFRLe
+#EXTINF:-1 group-title="beIN Sports max", beIN sports max2 Fhd
+http://mag.d60.co:80/play/live.php?mac=00:1A:79:0F:19:3A&stream=1065898&extension=ts&play_token=zv7c9H4n2U
+#EXTINF:-1 group-title="beIN Sports MN⚽", beIN sports 1 4k
+http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269943.ts
+#EXTINF:-1 group-title="beIN Sports MN⚽", beIN sports 2 4k
+http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269944.ts
+#EXTINF:-1 group-title="beIN Sports MN⚽", beIN sports 3 4k
+http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269945.ts
+#EXTINF:-1 group-title="beIN Sports MN⚽", beIN sports 4 4k
+http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269946.ts
+#EXTINF:-1 group-title="beIN Sports MN⚽", beIN sports 5 4k
+http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269947.ts
+#EXTINF:-1 group-title="beIN Sports MN⚽", beIN sports 6 4k
+http://fuegotv.site:80/live/ndsz4od7te/loik7sbi0q/1269948.ts
+#EXTINF:-1 group-title="beIN Sports Plus", beIN sports plus 1
+http://4kplus.info:80/live/NAJIBRABAT_478815/JIBcc8NP/272468.ts
+#EXTINF:-1 group-title="beIN Sports Plus", beIN sports plus 2
+http://4kplus.info:80/live/NAJIBRABAT_478815/JIBcc8NP/272467.ts
+#EXTINF:-1 group-title="beIN Sports Plus", beIN sports plus 3
+http://4kplus.info:80/live/NAJIBRABAT_478815/JIBcc8NP/272465.ts
+#EXTINF:-1 group-title="beIN Sports 🍏", beIN Sports 1
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/7266.ts
+#EXTINF:-1 group-title="beIN Sports 🍏", beIN Sports 2
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/55414.ts
+#EXTINF:-1 group-title="beIN Sports 🍏", beIN Sports 3
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/64692.ts
+#EXTINF:-1 group-title="beIN Sports 🍏", beIN Sports 4
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/7262.ts
+#EXTINF:-1 group-title="beIN Sports 🍏", beIN Sports 5
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/7261.ts
+#EXTINF:-1 group-title="beIN Sports 🍏", beIN Sports 6
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/7260.ts
+#EXTINF:-1 group-title="ALWAN SPORTS", ALWAN SPORT 1
+http://1ere-serrvices.com:80/live/b7r6yqnunx/ac7lrzc1aq/1641605.ts
+#EXTINF:-1 group-title="ALWAN SPORTS", ALWAN SPORT 2
+http://1ere-serrvices.com:80/live/b7r6yqnunx/ac7lrzc1aq/1641606.ts
+#EXTINF:-1 group-title="ALWAN SPORTS", ALWAN SPORT 3
+http://1ere-serrvices.com:80/live/b7r6yqnunx/ac7lrzc1aq/1641607.ts
+#EXTINF:-1 group-title="ALWAN SPORTS", ALWAN SPORT 4
+http://1ere-serrvices.com:80/live/b7r6yqnunx/ac7lrzc1aq/1641608.ts
+#EXTINF:-1 group-title="ALWAN SPORTS", ALWAN SPORT 5
+http://1ere-serrvices.com:80/live/b7r6yqnunx/ac7lrzc1aq/1641609.ts
+#EXTINF:-1 group-title="ALWAN SPORTS", ALWAN SPORT 6
+http://1ere-serrvices.com:80/live/b7r6yqnunx/ac7lrzc1aq/1641610.ts
+#EXTINF:-1 group-title="STARZPLAY", STARZPLAY 1
+http://1ere-serrvices.com:80/live/b7r6yqnunx/ac7lrzc1aq/1641611.ts
+#EXTINF:-1 group-title="STARZPLAY", STARZPLAY 2
+http://ultav3.me:80/play/live.php?mac=00:1A:79:0F:19:3A&stream=314103&extension=ts&play_token=z3q8YwPIqK
